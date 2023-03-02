@@ -3,11 +3,10 @@ import java.util.Scanner;
 public class HostelAllocation extends UtmeJamb{
 
 
-
     public void Hostel() {
-        Scanner input = new Scanner(System.in);
-
         utmeJamb();
+
+        Scanner input = new Scanner(System.in);
 
         String gender;
         Boolean hasPaid;

@@ -4,10 +4,8 @@ public class UtmeJamb extends Waec{
 
     private boolean utmeJambPassed;
 
-
     public void utmeJamb(){
         admitted();
-
 
         Scanner input = new Scanner(System.in);
         int jambScore, utmeScore, finalScore;

@@ -3,9 +3,5 @@ public class Main {
         HostelAllocation hA = new HostelAllocation();
 
         hA.Hostel();
-
-
-
-
     }
 }
