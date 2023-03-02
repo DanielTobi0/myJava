@@ -25,10 +25,12 @@ public class UtmeJamb extends Waec{
             if (isWaecPassed() && (finalScore >= 50)){
                 utmeJambPassed = true;
                 System.out.printf("You passed, with a score of %d%%", finalScore);
+                System.out.println("\n\n");
             }
             else {
                 utmeJambPassed = false;
                 System.out.printf("You failed, with a score of %d%%", finalScore);
+                System.out.println("Sorry we cannot continue with your application");
             }
         }
     }

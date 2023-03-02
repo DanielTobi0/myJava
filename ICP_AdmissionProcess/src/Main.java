@@ -1,8 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        UtmeJamb UJ = new UtmeJamb();
+        HostelAllocation hA = new HostelAllocation();
 
-        UJ.utmeJamb();
+        hA.Hostel();
+
+
 
 
     }

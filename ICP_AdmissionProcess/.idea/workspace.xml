@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fffccd1c-a116-49c6-a96e-62f4db11af9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICP_AdmissionProcess.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ICP_AdmissionProcess/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ICP_AdmissionProcess/HostelAllocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ICP_AdmissionProcess/HostelAllocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ICP_AdmissionProcess/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ICP_AdmissionProcess/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ICP_AdmissionProcess/UtmeJamb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ICP_AdmissionProcess/UtmeJamb.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HostelAllocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HostelAllocation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utme_Jamb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UtmeJamb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WAEC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WAEC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UtmeJamb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UtmeJamb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,5 +55,16 @@
       <updated>1677778707620</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
